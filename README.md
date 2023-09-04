@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Project by: [https://www.codewithantonio.com/projects/discord](https://www.codewithantonio.com/projects/discord)
 
+UI library: [https://ui.shadcn.com/](https://ui.shadcn.com/)
+
 Authentication: [https://clerk.com/](https://clerk.com/)
 
 ```bash
