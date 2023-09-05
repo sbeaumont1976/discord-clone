@@ -8,6 +8,8 @@ UI library: [https://ui.shadcn.com/](https://ui.shadcn.com/)
 
 Authentication: [https://clerk.com/](https://clerk.com/)
 
+Upload images: [https://uploadthing.com/](https://uploadthing.com/)
+
 ```bash
 npm run dev
 # or
